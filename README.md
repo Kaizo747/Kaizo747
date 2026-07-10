@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Harsh Agrawal 👋
 
-<!--
-**Kaizo747/Kaizo747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI/ML Engineer & Backend Developer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineer passionate about building autonomous AI agent architectures, intelligent workflows, and highly concurrent backend systems. I specialize in bridging the gap between advanced machine learning pipelines (like Agentic RAG) and robust microservices architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🧠 Artificial Intelligence & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Backend, Databases & Agentic Frameworks
+![LangChain](https://img.shields.io/badge/LangGraph%20/%20Agents-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaizo747&show_icons=true&theme=radial&hide_border=true" alt="Harsh's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizo747&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/harsh-agrawal-47b856300](https://linkedin.com/in/harsh-agrawal-47b856300)[cite: 1]
+* **Email:** [harshagrawal1339@gmail.com](mailto:harshagrawal1339@gmail.com)[cite: 1]
