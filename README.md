@@ -1,8 +1,14 @@
 # Hi there, I'm Harsh Agrawal 👋
 
-### 🤖 AI/ML Engineer & Backend Developer
+Welcome to my GitHub profile!  
+I’m passionate about building projects, improving my coding skills, and exploring new technologies.
+I am a Computer Science Engineer passionate about building  AI Models and Workflows.
 
-I am a Computer Science Engineer passionate about building autonomous AI agent architectures, intelligent workflows, and highly concurrent backend systems. I specialize in bridging the gap between advanced machine learning pipelines (like Agentic RAG) and robust microservices architecture.
+## 🚀 About Me
+- 🌱 I’m currently learning and improving every day
+- 🔭 I’m working on personal and open-source projects
+- 👯 I’m open to collaborating on interesting ideas
+- ⚡ I enjoy solving problems with clean and practical code
 
 ---
 
