@@ -33,8 +33,7 @@ I am a Computer Science Engineer passionate about building autonomous AI agent a
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaizo747&show_icons=true&theme=radial&hide_border=true" alt="Harsh's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizo747&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaizo747&theme=radial&hide_border=true" alt="GitHub Streak Stats" height="150" />
 </p>
 
 ---
